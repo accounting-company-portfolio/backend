@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/*node_modules": true,
+        "**/*package-lock.json": true,
+        "**/*vs.code": true
+    },
+    "editor.tabSize": 2,
+    "search.exclude": {
+        "**/*.vscode": true,
+        "**/*node_modules": true,
+        "**/*package-lock.json": true
+    },
+    "extensions.closeExtensionDetailsOnViewChange": false
+}
